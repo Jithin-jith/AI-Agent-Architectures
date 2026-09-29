@@ -84,9 +84,9 @@ ReAct unifies both into an iterative, closed-loop execution cycle:
 
 ## 4. Hands-on Code Structure
 
-- [tools.py](AI-Agent-Architectures/01_react_agent/tools.py): Mock flight search, calendar inspection, and currency tools with complete type signatures and docstrings.
-- [agent.py](AI-Agent-Architectures/01_react_agent/agent.py): Pure ReAct execution engine implementing the Thought-Action-Observation loop using Google Gemini models.
-- [main.py](AI-Agent-Architectures/01_react_agent/main.py): Complete executable script demonstrating the flight and calendar conflict resolution scenario.
+- [tools.py](tools.py): Mock flight search, calendar inspection, and currency tools with complete type signatures and docstrings.
+- [agent.py](agent.py): Pure ReAct execution engine implementing the Thought-Action-Observation loop using Google Gemini models.
+- [main.py](main.py): Complete executable script demonstrating the flight and calendar conflict resolution scenario.
 
 ## 5. Running the Code
 
